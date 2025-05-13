@@ -1,6 +1,6 @@
 {
   "name": "@groundworx/icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared icon components for use across Groundworx blocks and plugins.",
   "author": "Johanne Courtright",
   "license": "MIT",
